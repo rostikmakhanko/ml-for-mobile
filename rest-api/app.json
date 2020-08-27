@@ -1,0 +1,12 @@
+{
+  "name": "credit-card-photo",
+  "displayName": "credit-card-photo",
+  "expo": {
+    "name": "credit-card-photo",
+    "slug": "credit-card-photo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
