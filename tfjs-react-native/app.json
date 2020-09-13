@@ -1,0 +1,17 @@
+{
+  "name": "tensorflow-js",
+  "displayName": "tensorflow-js",
+  "expo": {
+    "name": "tensorflow-js",
+    "slug": "tensorflow-js",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
